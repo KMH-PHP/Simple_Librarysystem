@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>747</width>
-    <height>538</height>
+    <height>567</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -122,8 +122,24 @@
       <x>20</x>
       <y>20</y>
       <width>661</width>
-      <height>261</height>
+      <height>221</height>
      </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="updateBut">
+    <property name="enabled">
+     <bool>false</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>530</x>
+      <y>260</y>
+      <width>101</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Update Data</string>
     </property>
    </widget>
   </widget>
